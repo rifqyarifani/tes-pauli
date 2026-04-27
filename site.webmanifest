@@ -1,0 +1,16 @@
+{
+  "name": "TésPauli.id",
+  "short_name": "TésPauli",
+  "description": "Latihan Tes Pauli online gratis.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F8FAFC",
+  "theme_color": "#1A3C6E",
+  "icons": [
+    {
+      "src": "/assets/img/favicon.svg",
+      "sizes": "64x64",
+      "type": "image/svg+xml"
+    }
+  ]
+}

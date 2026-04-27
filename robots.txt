@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /latihan/hasil/
+Disallow: /admin/
+Sitemap: https://tespauli.id/sitemap.xml
